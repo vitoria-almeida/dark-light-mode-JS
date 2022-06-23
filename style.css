@@ -1,0 +1,11 @@
+:root {
+    --background-C: #d6d6d6;
+}
+
+body {
+    background-color: var(--background-C)
+}
+
+input, label {
+    font-size: 20px;
+}
